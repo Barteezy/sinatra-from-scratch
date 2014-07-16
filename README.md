@@ -13,3 +13,5 @@ If you finish with the first task, provide a way for Terence to view the emails 
 ## Really suck up to Terence
 
 Show the emails in the database *without* writing any code.
+
+Here's my heroku address: http://peaceful-refuge-4866.herokuapp.com/
